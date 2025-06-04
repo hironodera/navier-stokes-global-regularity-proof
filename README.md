@@ -4,7 +4,7 @@ This repository contains the full implementation package of the global regularit
 
 Author: Hiroaki Onodera  
 Affiliation: Independent Researcher / ZETA Project  
-Contact: hiroaki.onodera@example.com  
+Contact: hironodera_nTB@proton.me
 X: @Hiroaki_NS_Proof
 
 ## Repository Structure
